@@ -1,0 +1,1614 @@
+[
+    {
+      "Location": [
+        {
+          "LocationCode": "ZAZEE00001",
+          "LocationName": "ASIA"
+        },
+        {
+          "LocationCode": "ZAZEE00002",
+          "LocationName": "EUROPE"
+        },
+        {
+          "LocationCode": "ZAZEE00003",
+          "LocationName": "AMERICAS"
+        },
+        {
+          "LocationCode": "ZAZEE00004",
+          "LocationName": "AFRICAS"
+        },
+        {
+          "LocationCode": "ZAZEE00005",
+          "LocationName": "NEPAL"
+        },
+        {
+          "LocationCode": "ZEEXX00001",
+          "LocationName": "ZEE UAE"
+        }
+      ]
+    },
+    {
+      "Channel": [
+        {
+          "Channelcode": "ZAFLI00001",
+          "ChannelName": "&FLIX"
+        },
+        {
+          "Channelcode": "ZAFLI00002",
+          "ChannelName": "&FLIX HD"
+        },
+        {
+          "Channelcode": "ZAFLXS001",
+          "ChannelName": "&FLIX SRILANAKA"
+        },
+        {
+          "Channelcode": "ZAPIC00001",
+          "ChannelName": "&PICTURES"
+        },
+        {
+          "Channelcode": "ZAPIC00002",
+          "ChannelName": "&PICTURES HD"
+        },
+        {
+          "Channelcode": "ZAPRI00001",
+          "ChannelName": "&PRIVE HD"
+        },
+        {
+          "Channelcode": "ZATVX00001",
+          "ChannelName": "&TV"
+        },
+        {
+          "Channelcode": "ZATVH00001",
+          "ChannelName": "&TV HD"
+        },
+        {
+          "Channelcode": "TVMXX00001",
+          "ChannelName": "&TV ME"
+        },
+        {
+          "Channelcode": "ZAAND00001",
+          "ChannelName": "&XPLOR HD"
+        },
+        {
+          "Channelcode": "ZA9XX00001",
+          "ChannelName": "9X"
+        },
+        {
+          "Channelcode": "ZAACT00001",
+          "ChannelName": "ACTION CINEMA"
+        },
+        {
+          "Channelcode": "ZAASI00001",
+          "ChannelName": "ASIANET"
+        },
+        {
+          "Channelcode": "ZAZEE00008",
+          "ChannelName": "BHARATHI"
+        },
+        {
+          "Channelcode": "ZABIG00001",
+          "ChannelName": "BIG MAGIC"
+        },
+        {
+          "Channelcode": "BOOM000001",
+          "ChannelName": "BOOMERANG"
+        },
+        {
+          "Channelcode": "ZADIS00005",
+          "ChannelName": "BUZZ 2"
+        },
+        {
+          "Channelcode": "ZADIS00004",
+          "ChannelName": "BUZZ HD"
+        },
+        {
+          "Channelcode": "ZAGOL00001",
+          "ChannelName": "CLASSIC CINEMA"
+        },
+        {
+          "Channelcode": "ZUCAR00003",
+          "ChannelName": "CN -  HINDI"
+        },
+        {
+          "Channelcode": "ZUCAR00001",
+          "ChannelName": "CN - ARABIC"
+        },
+        {
+          "Channelcode": "ZUCAR00002",
+          "ChannelName": "CN - ENGLISH"
+        },
+        {
+          "Channelcode": "D2H0000002",
+          "ChannelName": "D2H-HOME-HD"
+        },
+        {
+          "Channelcode": "D2H0000001",
+          "ChannelName": "D2H-HOME-SD"
+        },
+        {
+          "Channelcode": "ZADDI00001",
+          "ChannelName": "DD - I"
+        },
+        {
+          "Channelcode": "ZADD200001",
+          "ChannelName": "DD - METRO"
+        },
+        {
+          "Channelcode": "ZADIS00001",
+          "ChannelName": "DISH BUZZ"
+        },
+        {
+          "Channelcode": "ZAETC00001",
+          "ChannelName": "ETC"
+        },
+        {
+          "Channelcode": "ZAETC00002",
+          "ChannelName": "ETC PUNJABI"
+        },
+        {
+          "Channelcode": "ZAZEE00007",
+          "ChannelName": "EXPOSURE"
+        },
+        {
+          "Channelcode": "ZAFLO00001",
+          "ChannelName": "FLOWERS TV"
+        },
+        {
+          "Channelcode": "ZUGEO00002",
+          "ChannelName": "GEO NEWS ME"
+        },
+        {
+          "Channelcode": "ZUGEO00001",
+          "ChannelName": "GEO TV M.E."
+        },
+        {
+          "Channelcode": "ZUIMA00001",
+          "ChannelName": "IMAGINE MOVIES"
+        },
+        {
+          "Channelcode": "ZAJAG00001",
+          "ChannelName": "JAGRAN"
+        },
+        {
+          "Channelcode": "ZAJIV00001",
+          "ChannelName": "JIVI"
+        },
+        {
+          "Channelcode": "ZAJIV00002",
+          "ChannelName": "JIVI KAZAKHSTAN"
+        },
+        {
+          "Channelcode": "ZAKAV00001",
+          "ChannelName": "KAVERI"
+        },
+        {
+          "Channelcode": "LAMXX00001",
+          "ChannelName": "LAMHE"
+        },
+        {
+          "Channelcode": "LIVXX00001",
+          "ChannelName": "LIVING FOODZ"
+        },
+        {
+          "Channelcode": "LIVXX00002",
+          "ChannelName": "LIVING FOODZ HD"
+        },
+        {
+          "Channelcode": "ZAMEZ00001",
+          "ChannelName": "M. E. ZEE CINEMA"
+        },
+        {
+          "Channelcode": "ZAENG00001",
+          "ChannelName": "MX (ENGLISH)"
+        },
+        {
+          "Channelcode": "ZASIT00010",
+          "ChannelName": "MY SITI"
+        },
+        {
+          "Channelcode": "SITMY00008",
+          "ChannelName": "MY SITI AP-TEL"
+        },
+        {
+          "Channelcode": "SITMY00007",
+          "ChannelName": "MY SITI KA-KL"
+        },
+        {
+          "Channelcode": "ZAAAR00025",
+          "ChannelName": "My Siti Vinodham"
+        },
+        {
+          "Channelcode": "SITMY00001",
+          "ChannelName": "MY SITI-DL"
+        },
+        {
+          "Channelcode": "SITMY00005",
+          "ChannelName": "MY SITI-HR"
+        },
+        {
+          "Channelcode": "MYHR000001",
+          "ChannelName": "My Siti-HR-Faridabad"
+        },
+        {
+          "Channelcode": "MYHR000004",
+          "ChannelName": "My Siti-HR-Hisar"
+        },
+        {
+          "Channelcode": "MYHR000002",
+          "ChannelName": "My Siti-HR-Karnal"
+        },
+        {
+          "Channelcode": "MYHR000005",
+          "ChannelName": "My Siti-HR-Panipat"
+        },
+        {
+          "Channelcode": "MYHR000003",
+          "ChannelName": "My Siti-HR-Rohtak"
+        },
+        {
+          "Channelcode": "SITMY00006",
+          "ChannelName": "MY SITI-MH"
+        },
+        {
+          "Channelcode": "ZAAAR00035",
+          "ChannelName": "MY SITI-MH-Mumbai"
+        },
+        {
+          "Channelcode": "SITMY00004",
+          "ChannelName": "MY SITI-MP"
+        },
+        {
+          "Channelcode": "ZAAAR00020",
+          "ChannelName": "MY SITI-MP-Bhopal"
+        },
+        {
+          "Channelcode": "ZAAAR00026",
+          "ChannelName": "MY SITI-MP-Indore"
+        },
+        {
+          "Channelcode": "ZAAAR00030",
+          "ChannelName": "MY SITI-MP-Jabalpur"
+        },
+        {
+          "Channelcode": "ZAAAR00039",
+          "ChannelName": "MY SITI-MP-Raipur"
+        },
+        {
+          "Channelcode": "ZAAAR00041",
+          "ChannelName": "MY SITI-MP-Ujjain"
+        },
+        {
+          "Channelcode": "SITMY00003",
+          "ChannelName": "MY SITI-RJ"
+        },
+        {
+          "Channelcode": "SITMY00002",
+          "ChannelName": "MY SITI-UP"
+        },
+        {
+          "Channelcode": "ZAPOR00001",
+          "ChannelName": "PORTAL"
+        },
+        {
+          "Channelcode": "ZAPRE00001",
+          "ChannelName": "PREMIERE CINEMA"
+        },
+        {
+          "Channelcode": "SARXX00001",
+          "ChannelName": "SARTHAK TV"
+        },
+        {
+          "Channelcode": "ZAAAR00010",
+          "ChannelName": "Siti Aaradhna"
+        },
+        {
+          "Channelcode": "ZAAAR00011",
+          "ChannelName": "Siti Amrit"
+        },
+        {
+          "Channelcode": "ZASIT00001",
+          "ChannelName": "SITI BEATS"
+        },
+        {
+          "Channelcode": "SITBE00008",
+          "ChannelName": "SITI BEATS AP-TEL"
+        },
+        {
+          "Channelcode": "SITBE00007",
+          "ChannelName": "SITI BEATS KA-KL"
+        },
+        {
+          "Channelcode": "SITBE00001",
+          "ChannelName": "SITI BEATS-DL"
+        },
+        {
+          "Channelcode": "SITBE00005",
+          "ChannelName": "SITI BEATS-HR"
+        },
+        {
+          "Channelcode": "SITBE00006",
+          "ChannelName": "SITI BEATS-MH"
+        },
+        {
+          "Channelcode": "SITBE00004",
+          "ChannelName": "SITI BEATS-MP"
+        },
+        {
+          "Channelcode": "SITBE00003",
+          "ChannelName": "SITI BEATS-RJ"
+        },
+        {
+          "Channelcode": "SITBE00002",
+          "ChannelName": "SITI BEATS-UP"
+        },
+        {
+          "Channelcode": "ZASIT00003",
+          "ChannelName": "SITI BHAKTI"
+        },
+        {
+          "Channelcode": "SITBH00008",
+          "ChannelName": "SITI BHAKTI AP-TEL"
+        },
+        {
+          "Channelcode": "SITBH00007",
+          "ChannelName": "SITI BHAKTI KA-KL"
+        },
+        {
+          "Channelcode": "SITBH00001",
+          "ChannelName": "SITI BHAKTI-DL"
+        },
+        {
+          "Channelcode": "SITBH00005",
+          "ChannelName": "SITI BHAKTI-HR"
+        },
+        {
+          "Channelcode": "ZAAAR00022",
+          "ChannelName": "Siti Bhakti-HR-Hissar"
+        },
+        {
+          "Channelcode": "ZAAAR00032",
+          "ChannelName": "Siti Bhakti-HR-Karnal"
+        },
+        {
+          "Channelcode": "SITBH00006",
+          "ChannelName": "SITI BHAKTI-MH"
+        },
+        {
+          "Channelcode": "ZAAAR00036",
+          "ChannelName": "SITI BHAKTI-MH-Mumbai"
+        },
+        {
+          "Channelcode": "SITBH00004",
+          "ChannelName": "SITI BHAKTI-MP"
+        },
+        {
+          "Channelcode": "ZAAAR00027",
+          "ChannelName": "SITI BHAKTI-MP-Indore"
+        },
+        {
+          "Channelcode": "SITBH00003",
+          "ChannelName": "SITI BHAKTI-RJ"
+        },
+        {
+          "Channelcode": "SITBH00002",
+          "ChannelName": "SITI BHAKTI-UP"
+        },
+        {
+          "Channelcode": "ZAAAR00012",
+          "ChannelName": "Siti Bhojpuri-Garhwalit"
+        },
+        {
+          "Channelcode": "ZASIT00008",
+          "ChannelName": "SITI CINEMA"
+        },
+        {
+          "Channelcode": "SITCN00008",
+          "ChannelName": "SITI CINEMA AP-TEL"
+        },
+        {
+          "Channelcode": "SITCN00007",
+          "ChannelName": "SITI CINEMA KA-KL"
+        },
+        {
+          "Channelcode": "SITCN00001",
+          "ChannelName": "SITI CINEMA-DL"
+        },
+        {
+          "Channelcode": "SITCN00005",
+          "ChannelName": "SITI CINEMA-HR"
+        },
+        {
+          "Channelcode": "ZAAAR00023",
+          "ChannelName": "SITI CINEMA-HR-Hissar"
+        },
+        {
+          "Channelcode": "ZAAAR00033",
+          "ChannelName": "SITI CINEMA-HR-Karnal"
+        },
+        {
+          "Channelcode": "SITCN00006",
+          "ChannelName": "SITI CINEMA-MH"
+        },
+        {
+          "Channelcode": "ZAAAR00037",
+          "ChannelName": "SITI CINEMA-MH-Mumbai"
+        },
+        {
+          "Channelcode": "SITCN00004",
+          "ChannelName": "SITI CINEMA-MP"
+        },
+        {
+          "Channelcode": "ZAAAR00028",
+          "ChannelName": "SITI Cinema-MP-Indore"
+        },
+        {
+          "Channelcode": "ZAAAR00031",
+          "ChannelName": "SITI Cinema-MP-Jabalpur"
+        },
+        {
+          "Channelcode": "ZAAAR00040",
+          "ChannelName": "SITI CINEMA-MP-Raipur"
+        },
+        {
+          "Channelcode": "ZAAAR00042",
+          "ChannelName": "SITI CINEMA-MP-Ujjain"
+        },
+        {
+          "Channelcode": "SITCN00003",
+          "ChannelName": "SITI CINEMA-RJ"
+        },
+        {
+          "Channelcode": "SITCN00002",
+          "ChannelName": "SITI CINEMA-UP"
+        },
+        {
+          "Channelcode": "ZAAAR00014",
+          "ChannelName": "Siti Classic"
+        },
+        {
+          "Channelcode": "ZASIT00004",
+          "ChannelName": "SITI DHAKAD"
+        },
+        {
+          "Channelcode": "SITDH00008",
+          "ChannelName": "SITI DHAKAD AP-TEL"
+        },
+        {
+          "Channelcode": "SITDH00007",
+          "ChannelName": "SITI DHAKAD KA-KL"
+        },
+        {
+          "Channelcode": "SITDH00002",
+          "ChannelName": "SITI DHAKAD UP"
+        },
+        {
+          "Channelcode": "SITDH00001",
+          "ChannelName": "SITI DHAKAD-DL"
+        },
+        {
+          "Channelcode": "SITDH00005",
+          "ChannelName": "SITI DHAKAD-HR"
+        },
+        {
+          "Channelcode": "SITDH00006",
+          "ChannelName": "SITI DHAKAD-MH"
+        },
+        {
+          "Channelcode": "SITDH00004",
+          "ChannelName": "SITI DHAKAD-MP"
+        },
+        {
+          "Channelcode": "SITDH00003",
+          "ChannelName": "SITI DHAKAD-RJ"
+        },
+        {
+          "Channelcode": "ZAPLA00001",
+          "ChannelName": "SITI FILMY"
+        },
+        {
+          "Channelcode": "ZAPLA00002",
+          "ChannelName": "SITI FILMY - DL"
+        },
+        {
+          "Channelcode": "ZAPLA00006",
+          "ChannelName": "SITI FILMY - HR"
+        },
+        {
+          "Channelcode": "ZAPLA00005",
+          "ChannelName": "SITI FILMY - MP"
+        },
+        {
+          "Channelcode": "ZAPLA00004",
+          "ChannelName": "SITI FILMY - RJ"
+        },
+        {
+          "Channelcode": "ZAPLA00003",
+          "ChannelName": "SITI FILMY - UP"
+        },
+        {
+          "Channelcode": "ZAPLA00009",
+          "ChannelName": "SITI FILMY AP-TEL"
+        },
+        {
+          "Channelcode": "ZAPLA00008",
+          "ChannelName": "SITI FILMY KA-KL"
+        },
+        {
+          "Channelcode": "ZAPLA00007",
+          "ChannelName": "SITI FILMY-MH"
+        },
+        {
+          "Channelcode": "ZASIT00002",
+          "ChannelName": "SITI GOLD"
+        },
+        {
+          "Channelcode": "SITGO00008",
+          "ChannelName": "SITI GOLD AP-TEL"
+        },
+        {
+          "Channelcode": "SITGO00007",
+          "ChannelName": "SITI GOLD KA-KL"
+        },
+        {
+          "Channelcode": "SITGO00001",
+          "ChannelName": "SITI GOLD-DL"
+        },
+        {
+          "Channelcode": "SITGO00005",
+          "ChannelName": "SITI GOLD-HR"
+        },
+        {
+          "Channelcode": "SITGO00006",
+          "ChannelName": "SITI GOLD-MH"
+        },
+        {
+          "Channelcode": "SITGO00004",
+          "ChannelName": "SITI GOLD-MP"
+        },
+        {
+          "Channelcode": "SITGO00003",
+          "ChannelName": "SITI GOLD-RJ"
+        },
+        {
+          "Channelcode": "SITGO00002",
+          "ChannelName": "SITI GOLD-UP"
+        },
+        {
+          "Channelcode": "ZASIT00006",
+          "ChannelName": "SITI HARYANVI"
+        },
+        {
+          "Channelcode": "SITHR00008",
+          "ChannelName": "SITI HARYANVI AP-TEL"
+        },
+        {
+          "Channelcode": "SITHR00007",
+          "ChannelName": "SITI HARYANVI KA-KL"
+        },
+        {
+          "Channelcode": "SITHR00001",
+          "ChannelName": "SITI HARYANVI-DL"
+        },
+        {
+          "Channelcode": "SITHR00005",
+          "ChannelName": "SITI HARYANVI-HR"
+        },
+        {
+          "Channelcode": "SITHR00006",
+          "ChannelName": "SITI HARYANVI-MH"
+        },
+        {
+          "Channelcode": "SITHR00004",
+          "ChannelName": "SITI HARYANVI-MP"
+        },
+        {
+          "Channelcode": "SITHR00003",
+          "ChannelName": "SITI HARYANVI-RJ"
+        },
+        {
+          "Channelcode": "SITHR00002",
+          "ChannelName": "SITI HARYANVI-UP"
+        },
+        {
+          "Channelcode": "ZAAAR00024",
+          "ChannelName": "Siti Hit-HR-Hissar"
+        },
+        {
+          "Channelcode": "ZAAAR00034",
+          "ChannelName": "Siti Hit-HR-Karnal"
+        },
+        {
+          "Channelcode": "ZAAAR00038",
+          "ChannelName": "SITI Hit-MH-Mumbai"
+        },
+        {
+          "Channelcode": "ZAAAR00029",
+          "ChannelName": "SITI Hit-MP-Indore"
+        },
+        {
+          "Channelcode": "ZAAAR00015",
+          "ChannelName": "Siti Hits"
+        },
+        {
+          "Channelcode": "ZASIT00013",
+          "ChannelName": "SITI MG"
+        },
+        {
+          "Channelcode": "ZAAAR00016",
+          "ChannelName": "Siti Mix"
+        },
+        {
+          "Channelcode": "ZAAAR00018",
+          "ChannelName": "Siti Movies"
+        },
+        {
+          "Channelcode": "ZAAAR00019",
+          "ChannelName": "Siti Prime"
+        },
+        {
+          "Channelcode": "ZASIT00007",
+          "ChannelName": "SITI PUNJABI"
+        },
+        {
+          "Channelcode": "ZASIT00005",
+          "ChannelName": "SITI PURVAI"
+        },
+        {
+          "Channelcode": "SITPU00001",
+          "ChannelName": "SITI PURVAI - DL"
+        },
+        {
+          "Channelcode": "SITPU00003",
+          "ChannelName": "SITI PURVAI - RJ"
+        },
+        {
+          "Channelcode": "SITPU00002",
+          "ChannelName": "SITI PURVAI - UP"
+        },
+        {
+          "Channelcode": "SITPU00008",
+          "ChannelName": "SITI PURVAI AP-TEL"
+        },
+        {
+          "Channelcode": "SITPU00007",
+          "ChannelName": "SITI PURVAI KA-KL"
+        },
+        {
+          "Channelcode": "SITPU00006",
+          "ChannelName": "SITI PURVAI-MH"
+        },
+        {
+          "Channelcode": "SITPU00004",
+          "ChannelName": "SITI PURVAI-MP"
+        },
+        {
+          "Channelcode": "ZASIT00012",
+          "ChannelName": "SITI RAJASTHANI"
+        },
+        {
+          "Channelcode": "SITRJ00007",
+          "ChannelName": "SITI RAJASTHANI AP-TEL"
+        },
+        {
+          "Channelcode": "SITRJ00006",
+          "ChannelName": "SITI RAJASTHANI KA-KL"
+        },
+        {
+          "Channelcode": "SITRJ00008",
+          "ChannelName": "SITI RAJASTHANI-DL"
+        },
+        {
+          "Channelcode": "SITRJ00004",
+          "ChannelName": "SITI RAJASTHANI-HR"
+        },
+        {
+          "Channelcode": "SITRJ00005",
+          "ChannelName": "SITI RAJASTHANI-MH"
+        },
+        {
+          "Channelcode": "SITRJ00003",
+          "ChannelName": "SITI RAJASTHANI-MP"
+        },
+        {
+          "Channelcode": "SITRJ00002",
+          "ChannelName": "SITI RAJASTHANI-RJ"
+        },
+        {
+          "Channelcode": "SITRJ00001",
+          "ChannelName": "SITI RAJASTHANI-UP"
+        },
+        {
+          "Channelcode": "ZASIT00009",
+          "ChannelName": "SITI SALAM"
+        },
+        {
+          "Channelcode": "ZABU000001",
+          "ChannelName": "SOUTH BUZZ"
+        },
+        {
+          "Channelcode": "ZATEN00001",
+          "ChannelName": "TEN 1"
+        },
+        {
+          "Channelcode": "ZATEN00004",
+          "ChannelName": "TEN 1 HD"
+        },
+        {
+          "Channelcode": "ZATEN00006",
+          "ChannelName": "TEN 2"
+        },
+        {
+          "Channelcode": "TENXX00002",
+          "ChannelName": "TEN 3"
+        },
+        {
+          "Channelcode": "ZATEN00003",
+          "ChannelName": "TEN ACTION +"
+        },
+        {
+          "Channelcode": "ZATEN00002",
+          "ChannelName": "TEN CRICKET"
+        },
+        {
+          "Channelcode": "ZATEN00008",
+          "ChannelName": "TEN CRICKET CARIBBEAN"
+        },
+        {
+          "Channelcode": "ZATEN00009",
+          "ChannelName": "TEN CRICKET INTERNATIONAL"
+        },
+        {
+          "Channelcode": "ZATEN00005",
+          "ChannelName": "TEN GOLF"
+        },
+        {
+          "Channelcode": "TENXX00001",
+          "ChannelName": "TEN GOLF HD"
+        },
+        {
+          "Channelcode": "ZUTEN00001",
+          "ChannelName": "TEN SPORTS"
+        },
+        {
+          "Channelcode": "ZATEN00007",
+          "ChannelName": "TEN SPORTS PAKISTAN"
+        },
+        {
+          "Channelcode": "ZUZEE00014",
+          "ChannelName": "US ZEE AFLAM"
+        },
+        {
+          "Channelcode": "ZUZEE00015",
+          "ChannelName": "US ZEE ALWAN"
+        },
+        {
+          "Channelcode": "ZAUTN00001",
+          "ChannelName": "UTN"
+        },
+        {
+          "Channelcode": "ZAVER00001",
+          "ChannelName": "VERIA"
+        },
+        {
+          "Channelcode": "ZAVER00002",
+          "ChannelName": "VERIA CHICAGO"
+        },
+        {
+          "Channelcode": "ZAVER00003",
+          "ChannelName": "VERIA LIVING_EAST"
+        },
+        {
+          "Channelcode": "ZAWON00001",
+          "ChannelName": "WION"
+        },
+        {
+          "Channelcode": "ZUWOT00001",
+          "ChannelName": "World On HD TV"
+        },
+        {
+          "Channelcode": "ZAZLI00001",
+          "ChannelName": "Z LIVING"
+        },
+        {
+          "Channelcode": "ZAZEE00027",
+          "ChannelName": "ZEE 24 GANTALU"
+        },
+        {
+          "Channelcode": "ZA24G00001",
+          "ChannelName": "ZEE 24 GHANTA"
+        },
+        {
+          "Channelcode": "ZAKAL00001",
+          "ChannelName": "ZEE 24 KALAK"
+        },
+        {
+          "Channelcode": "ZAZEE00019",
+          "ChannelName": "ZEE 24 TAAS"
+        },
+        {
+          "Channelcode": "ZAZEE00018",
+          "ChannelName": "ZEE AFLAM"
+        },
+        {
+          "Channelcode": "ZAALM00001",
+          "ChannelName": "ZEE ALEM"
+        },
+        {
+          "Channelcode": "ZAZEE00038",
+          "ChannelName": "ZEE ALWAN"
+        },
+        {
+          "Channelcode": "ZAZEE00042",
+          "ChannelName": "ZEE ANMOL"
+        },
+        {
+          "Channelcode": "ZAAN000001",
+          "ChannelName": "ZEE ANMOL CINEMA"
+        },
+        {
+          "Channelcode": "ZUZEE00001",
+          "ChannelName": "ZEE ARABIYA"
+        },
+        {
+          "Channelcode": "ZAZEE00013",
+          "ChannelName": "ZEE ASTRO"
+        },
+        {
+          "Channelcode": "ZAALP00002",
+          "ChannelName": "ZEE BANGLA"
+        },
+        {
+          "Channelcode": "ZAZEE00023",
+          "ChannelName": "ZEE BANGLA CINEMA"
+        },
+        {
+          "Channelcode": "ZABGC00001",
+          "ChannelName": "ZEE BANGLA CINEMA(INTL)"
+        },
+        {
+          "Channelcode": "ZABANXX001",
+          "ChannelName": "ZEE BANGLA HD"
+        },
+        {
+          "Channelcode": "ZAZEE00051",
+          "ChannelName": "ZEE BANGLA INTERNATIONAL"
+        },
+        {
+          "Channelcode": "ZAMAU00001",
+          "ChannelName": "ZEE BIHAR JHARKHAND"
+        },
+        {
+          "Channelcode": "ZAZEE00046",
+          "ChannelName": "ZEE BIOSKOP"
+        },
+        {
+          "Channelcode": "ZAGAN00001",
+          "ChannelName": "ZEE BISKOPE"
+        },
+        {
+          "Channelcode": "ZABOL00002",
+          "ChannelName": "ZEE BOLLYMOVIES"
+        },
+        {
+          "Channelcode": "ZAZEE00054",
+          "ChannelName": "ZEE BOLLYMOVIES ROA"
+        },
+        {
+          "Channelcode": "ZABOL00001",
+          "ChannelName": "ZEE BOLLYNOVA"
+        },
+        {
+          "Channelcode": "ZAZEE00044",
+          "ChannelName": "ZEE BOLLYWOOD"
+        },
+        {
+          "Channelcode": "ZAZEE00011",
+          "ChannelName": "ZEE BUSINESS"
+        },
+        {
+          "Channelcode": "ZAZEE00005",
+          "ChannelName": "ZEE CAFE"
+        },
+        {
+          "Channelcode": "ZAZEE00036",
+          "ChannelName": "ZEE CAFE HD"
+        },
+        {
+          "Channelcode": "ZACAF0001",
+          "ChannelName": "ZEE CAFE SRILANAKA"
+        },
+        {
+          "Channelcode": "ZAZAB00001",
+          "ChannelName": "ZEE CHITRAMANDIR"
+        },
+        {
+          "Channelcode": "ZAZEE00003",
+          "ChannelName": "ZEE CINEMA"
+        },
+        {
+          "Channelcode": "ZAZEE00030",
+          "ChannelName": "ZEE CINEMA (SING)"
+        },
+        {
+          "Channelcode": "ZAZEE00015",
+          "ChannelName": "ZEE CINEMA DTH"
+        },
+        {
+          "Channelcode": "ZAZEE00035",
+          "ChannelName": "ZEE CINEMA HD"
+        },
+        {
+          "Channelcode": "ZAZEE00052",
+          "ChannelName": "ZEE CINEMALU"
+        },
+        {
+          "Channelcode": "CINHD00001",
+          "ChannelName": "ZEE CINEMALU HD"
+        },
+        {
+          "Channelcode": "ZUZEE00005",
+          "ChannelName": "ZEE CRICKET"
+        },
+        {
+          "Channelcode": "ZAZEE00009",
+          "ChannelName": "ZEE EDUCATION"
+        },
+        {
+          "Channelcode": "ZUZEE00013",
+          "ChannelName": "ZEE FILM HINDI"
+        },
+        {
+          "Channelcode": "ZABIG00002",
+          "ChannelName": "ZEE GANGA"
+        },
+        {
+          "Channelcode": "ZAALP00004",
+          "ChannelName": "ZEE GUJARATHI"
+        },
+        {
+          "Channelcode": "ZEEXX00001",
+          "ChannelName": "ZEE HIBURAN"
+        },
+        {
+          "Channelcode": "ZAZEE00028",
+          "ChannelName": "ZEE HINDUSTAN"
+        },
+        {
+          "Channelcode": "ZAZEE00016",
+          "ChannelName": "ZEE KANNADA"
+        },
+        {
+          "Channelcode": "ZAKAN00010",
+          "ChannelName": "ZEE KANNADA HD"
+        },
+        {
+          "Channelcode": "ZAMAL00001",
+          "ChannelName": "ZEE KERALAM"
+        },
+        {
+          "Channelcode": "ZAMAL00002",
+          "ChannelName": "ZEE KERALAM HD"
+        },
+        {
+          "Channelcode": "ZAKER00001",
+          "ChannelName": "ZEE KERALAM ME"
+        },
+        {
+          "Channelcode": "ZAZEE00032",
+          "ChannelName": "ZEE KHANA KHAZANA"
+        },
+        {
+          "Channelcode": "ZAZEE00045",
+          "ChannelName": "ZEE LAMHE"
+        },
+        {
+          "Channelcode": "ZUVXX00001",
+          "ChannelName": "ZEE LIVING"
+        },
+        {
+          "Channelcode": "ZAZEE00039",
+          "ChannelName": "ZEE MADHYA PRADESH CHATTISGARH"
+        },
+        {
+          "Channelcode": "ZEEXX00002",
+          "ChannelName": "ZEE MAGIC  FRENCH"
+        },
+        {
+          "Channelcode": "ZAALP00001",
+          "ChannelName": "ZEE MARATHI"
+        },
+        {
+          "Channelcode": "ZAMAR00001",
+          "ChannelName": "ZEE MARATHI HD"
+        },
+        {
+          "Channelcode": "ZAZEE00004",
+          "ChannelName": "ZEE MOVIES"
+        },
+        {
+          "Channelcode": "ZAMUN00001",
+          "ChannelName": "ZEE MUNDO"
+        },
+        {
+          "Channelcode": "ZAMUN00003",
+          "ChannelName": "ZEE MUNDO LATAM"
+        },
+        {
+          "Channelcode": "ZAMUN00002",
+          "ChannelName": "ZEE MUNDO-LA"
+        },
+        {
+          "Channelcode": "ZAZEE00002",
+          "ChannelName": "ZEE NEWS"
+        },
+        {
+          "Channelcode": "ZAZEE00040",
+          "ChannelName": "ZEE NEWS SINGAPORE"
+        },
+        {
+          "Channelcode": "ZAAMG00027",
+          "ChannelName": "ZEE NEWS-Bangalore"
+        },
+        {
+          "Channelcode": "ZAAMG00028",
+          "ChannelName": "ZEE NEWS-Bihar"
+        },
+        {
+          "Channelcode": "ZAAMG00029",
+          "ChannelName": "ZEE NEWS-Chattisgarh"
+        },
+        {
+          "Channelcode": "ZAAMG00030",
+          "ChannelName": "ZEE NEWS-DelhiNCR"
+        },
+        {
+          "Channelcode": "ZAAMG00031",
+          "ChannelName": "ZEE NEWS-Gujarat"
+        },
+        {
+          "Channelcode": "ZAAMG00032",
+          "ChannelName": "ZEE NEWS-Jharkhand"
+        },
+        {
+          "Channelcode": "ZAAMG00033",
+          "ChannelName": "ZEE NEWS-M P"
+        },
+        {
+          "Channelcode": "ZAAMG00038",
+          "ChannelName": "ZEE NEWS-Maha RO"
+        },
+        {
+          "Channelcode": "ZAAMG00034",
+          "ChannelName": "ZEE NEWS-Mumbai"
+        },
+        {
+          "Channelcode": "ZAAMG00035",
+          "ChannelName": "ZEE NEWS-Orissa"
+        },
+        {
+          "Channelcode": "ZAAMG00036",
+          "ChannelName": "ZEE NEWS-Punjab"
+        },
+        {
+          "Channelcode": "ZAAMG00037",
+          "ChannelName": "ZEE NEWS-Rajasthan"
+        },
+        {
+          "Channelcode": "ZAAMG00039",
+          "ChannelName": "ZEE NEWS-UttarPradesh"
+        },
+        {
+          "Channelcode": "ZAAMG00040",
+          "ChannelName": "ZEE NEWS-WestBengal"
+        },
+        {
+          "Channelcode": "ZADIG00001",
+          "ChannelName": "ZEE NEWS.COM"
+        },
+        {
+          "Channelcode": "ZAZEE00049",
+          "ChannelName": "ZEE NUNG"
+        },
+        {
+          "Channelcode": "ZAZEE00047",
+          "ChannelName": "ZEE ODISHA"
+        },
+        {
+          "Channelcode": "ZAGER00001",
+          "ChannelName": "ZEE ONE"
+        },
+        {
+          "Channelcode": "ZAONE00002",
+          "ChannelName": "ZEE ONE (ROA)"
+        },
+        {
+          "Channelcode": "ZEEXX00010",
+          "ChannelName": "ZEE PHIM"
+        },
+        {
+          "Channelcode": "ZAPIC00010",
+          "ChannelName": "ZEE PICCHAR"
+        },
+        {
+          "Channelcode": "ZAPIC00011",
+          "ChannelName": "ZEE PICCHAR HD"
+        },
+        {
+          "Channelcode": "ZAALP00003",
+          "ChannelName": "ZEE PUNJAB HARYANA HIMACHAL"
+        },
+        {
+          "Channelcode": "ZAPUN00001",
+          "ChannelName": "ZEE PUNJABI"
+        },
+        {
+          "Channelcode": "ZAZEE00037",
+          "ChannelName": "ZEE Q"
+        },
+        {
+          "Channelcode": "ZAZEE00043",
+          "ChannelName": "ZEE RAJASTHAN"
+        },
+        {
+          "Channelcode": "ZAZEE00017",
+          "ChannelName": "ZEE RUSSIA"
+        },
+        {
+          "Channelcode": "ZAZEE00031",
+          "ChannelName": "ZEE SALAAM"
+        },
+        {
+          "Channelcode": "ZASIN00001",
+          "ChannelName": "ZEE SINE"
+        },
+        {
+          "Channelcode": "ZACOM00001",
+          "ChannelName": "ZEE SMILE"
+        },
+        {
+          "Channelcode": "ZAZEE00006",
+          "ChannelName": "ZEE SPORTS"
+        },
+        {
+          "Channelcode": "ZAZEE00010",
+          "ChannelName": "ZEE STUDIO"
+        },
+        {
+          "Channelcode": "ZAZEE00033",
+          "ChannelName": "ZEE STUDIO HD"
+        },
+        {
+          "Channelcode": "ZAZEE00012",
+          "ChannelName": "ZEE SYNDICATION"
+        },
+        {
+          "Channelcode": "ZAZEE00021",
+          "ChannelName": "ZEE TALKIES"
+        },
+        {
+          "Channelcode": "ZATAL00001",
+          "ChannelName": "ZEE TALKIES HD"
+        },
+        {
+          "Channelcode": "ZAZEE00022",
+          "ChannelName": "ZEE TAMIL"
+        },
+        {
+          "Channelcode": "ZAZTA00001",
+          "ChannelName": "Zee Tamil (APAC)"
+        },
+        {
+          "Channelcode": "ZATAM00001",
+          "ChannelName": "ZEE TAMIL HD"
+        },
+        {
+          "Channelcode": "ZAZEE00029",
+          "ChannelName": "ZEE TAMIZH NEW BEAM"
+        },
+        {
+          "Channelcode": "ZAALP00005",
+          "ChannelName": "ZEE TELUGU"
+        },
+        {
+          "Channelcode": "TELHD00001",
+          "ChannelName": "ZEE TELUGU HD"
+        },
+        {
+          "Channelcode": "ZATHI00001",
+          "ChannelName": "ZEE THIRAI"
+        },
+        {
+          "Channelcode": "ZATHI00002",
+          "ChannelName": "ZEE THIRAI HD"
+        },
+        {
+          "Channelcode": "ZATRE00001",
+          "ChannelName": "ZEE TRENDZ"
+        },
+        {
+          "Channelcode": "ZAZEE00001",
+          "ChannelName": "ZEE TV"
+        },
+        {
+          "Channelcode": "ZAZEE00050",
+          "ChannelName": "ZEE TV (REST OF AFRICA)"
+        },
+        {
+          "Channelcode": "ZAZEE00048",
+          "ChannelName": "ZEE TV CARIBBEAN SD"
+        },
+        {
+          "Channelcode": "ZAZEE00034",
+          "ChannelName": "ZEE TV HD"
+        },
+        {
+          "Channelcode": "ZAINT00001",
+          "ChannelName": "Zee TV MENAP"
+        },
+        {
+          "Channelcode": "ZAWAJ00001",
+          "ChannelName": "ZEE VAJWA"
+        },
+        {
+          "Channelcode": "ZACAT00001",
+          "ChannelName": "ZEE WORLD"
+        },
+        {
+          "Channelcode": "ZEEXX00003",
+          "ChannelName": "ZEE WORLD (REST OF AFRICA)"
+        },
+        {
+          "Channelcode": "ZAZEE00053",
+          "ChannelName": "ZEE YUVA"
+        },
+        {
+          "Channelcode": "ZAZST00001",
+          "ChannelName": "ZEE ZEST"
+        },
+        {
+          "Channelcode": "ZAZST00002",
+          "ChannelName": "ZEE ZEST HD"
+        },
+        {
+          "Channelcode": "ZAAMG00015",
+          "ChannelName": "ZEECINEMA-Bihar"
+        },
+        {
+          "Channelcode": "ZAAMG00016",
+          "ChannelName": "ZEECINEMA-DelhiNCR"
+        },
+        {
+          "Channelcode": "ZAAMG00017",
+          "ChannelName": "ZEECINEMA-Gujarat"
+        },
+        {
+          "Channelcode": "ZAAMG00018",
+          "ChannelName": "ZEECINEMA-MPCG"
+        },
+        {
+          "Channelcode": "ZAAMG00019",
+          "ChannelName": "ZEECINEMA-Mumbai"
+        },
+        {
+          "Channelcode": "ZAAMG00020",
+          "ChannelName": "ZEECINEMA-NorthEast"
+        },
+        {
+          "Channelcode": "ZAAMG00021",
+          "ChannelName": "ZEECINEMA-Orissa"
+        },
+        {
+          "Channelcode": "ZAAMG00022",
+          "ChannelName": "ZEECINEMA-PHCHP"
+        },
+        {
+          "Channelcode": "ZAAMG00023",
+          "ChannelName": "ZEECINEMA-Rajasthan"
+        },
+        {
+          "Channelcode": "ZAAMG00024",
+          "ChannelName": "ZEECINEMA-RoMaha"
+        },
+        {
+          "Channelcode": "ZAAMG00025",
+          "ChannelName": "ZEECINEMA-UttarPradesh"
+        },
+        {
+          "Channelcode": "ZAAMG00026",
+          "ChannelName": "ZEECINEMA-WestBengal"
+        },
+        {
+          "Channelcode": "ZAZEE00020",
+          "ChannelName": "ZEENEXT"
+        },
+        {
+          "Channelcode": "ZASEA00001",
+          "ChannelName": "ZEETV APAC"
+        },
+        {
+          "Channelcode": "ZAZEE00041",
+          "ChannelName": "ZEETV CANADA"
+        },
+        {
+          "Channelcode": "ZAZEE00014",
+          "ChannelName": "ZEETV DTH"
+        },
+        {
+          "Channelcode": "ZAAMG00001",
+          "ChannelName": "ZEETV-BANGALORE"
+        },
+        {
+          "Channelcode": "ZAAMG00002",
+          "ChannelName": "ZEETV-BIHAR"
+        },
+        {
+          "Channelcode": "ZAAMG00003",
+          "ChannelName": "ZEETV-DelhiNCR"
+        },
+        {
+          "Channelcode": "ZAAMG00004",
+          "ChannelName": "ZEETV-Gujarat"
+        },
+        {
+          "Channelcode": "ZAAMG00005",
+          "ChannelName": "ZEETV-Hyderabad"
+        },
+        {
+          "Channelcode": "ZAAMG00006",
+          "ChannelName": "ZEETV-MPCG"
+        },
+        {
+          "Channelcode": "ZAAMG00007",
+          "ChannelName": "ZEETV-Mumbai"
+        },
+        {
+          "Channelcode": "ZAAMG00008",
+          "ChannelName": "ZEETV-NorthEast"
+        },
+        {
+          "Channelcode": "ZAAMG00009",
+          "ChannelName": "ZEETV-Orissa"
+        },
+        {
+          "Channelcode": "ZAAMG00010",
+          "ChannelName": "ZEETV-PHCHP"
+        },
+        {
+          "Channelcode": "ZAAMG00011",
+          "ChannelName": "ZEETV-Rajasthan"
+        },
+        {
+          "Channelcode": "ZAAMG00012",
+          "ChannelName": "ZEETV-RoMaha"
+        },
+        {
+          "Channelcode": "ZAAMG00013",
+          "ChannelName": "ZEETV-UttarPradesh"
+        },
+        {
+          "Channelcode": "ZAAMG00014",
+          "ChannelName": "ZEETV-WestBengal"
+        },
+        {
+          "Channelcode": "ZAZIN00001",
+          "ChannelName": "ZINDAGI"
+        },
+        {
+          "Channelcode": "ZAMUS00004",
+          "ChannelName": "ZING"
+        },
+        {
+          "Channelcode": "ZINXX00001",
+          "ChannelName": "ZING HOME"
+        }
+      ]
+    },
+    {
+      "Language": [
+        {
+          "languagecode": "ZAAMH00001",
+          "languagename": "AMHARIC"
+        },
+        {
+          "languagecode": "ZUARA00001",
+          "languagename": "ARABIC"
+        },
+        {
+          "languagecode": "ZABAH00001",
+          "languagename": "BAHASA"
+        },
+        {
+          "languagecode": "ZABEN00001",
+          "languagename": "BANGALI"
+        },
+        {
+          "languagecode": "ZABHO00001",
+          "languagename": "BHOJPURI"
+        },
+        {
+          "languagecode": "ZACHI00001",
+          "languagename": "CHINESE"
+        },
+        {
+          "languagecode": "ZAENG00002",
+          "languagename": "ENGLISH"
+        },
+        {
+          "languagecode": "ZAFRE00001",
+          "languagename": "FRENCH"
+        },
+        {
+          "languagecode": "ZAGAR00002",
+          "languagename": "GARHWALI"
+        },
+        {
+          "languagecode": "GXXXX00001",
+          "languagename": "Georgian"
+        },
+        {
+          "languagecode": "ZAGAR00001",
+          "languagename": "GERMAN"
+        },
+        {
+          "languagecode": "ZAGUJ00001",
+          "languagename": "GUJARATI"
+        },
+        {
+          "languagecode": "ZAHAR00001",
+          "languagename": "HARYANVI"
+        },
+        {
+          "languagecode": "ZAHIN00001",
+          "languagename": "HINDI"
+        },
+        {
+          "languagecode": "ZAHIN00002",
+          "languagename": "HINGLISH"
+        },
+        {
+          "languagecode": "ZAKAN00001",
+          "languagename": "KANNADA"
+        },
+        {
+          "languagecode": "ZAKOR00001",
+          "languagename": "KOREAN"
+        },
+        {
+          "languagecode": "ZALAT00001",
+          "languagename": "LATIN"
+        },
+        {
+          "languagecode": "ZUMAL00001",
+          "languagename": "MALAYALAM"
+        },
+        {
+          "languagecode": "ZAMAL00001",
+          "languagename": "MALYALAM"
+        },
+        {
+          "languagecode": "ZAMAR00001",
+          "languagename": "MARATHI"
+        },
+        {
+          "languagecode": "ZAORI00001",
+          "languagename": "ORIYA"
+        },
+        {
+          "languagecode": "ZAPUN00001",
+          "languagename": "PUNJABI"
+        },
+        {
+          "languagecode": "ZARAJ00001",
+          "languagename": "RAJASTHANI"
+        },
+        {
+          "languagecode": "ZARUS00001",
+          "languagename": "RUSSIA"
+        },
+        {
+          "languagecode": "ZASAN00001",
+          "languagename": "SANSKRIT"
+        },
+        {
+          "languagecode": "ZASIL00001",
+          "languagename": "SILENT"
+        },
+        {
+          "languagecode": "ZASIN00001",
+          "languagename": "SINDHI"
+        },
+        {
+          "languagecode": "ZASPA00001",
+          "languagename": "SPANISH"
+        },
+        {
+          "languagecode": "ZATAG00001",
+          "languagename": "TAGALOG"
+        },
+        {
+          "languagecode": "ZATAM00001",
+          "languagename": "TAMIL"
+        },
+        {
+          "languagecode": "ZATEL00001",
+          "languagename": "TELUGU"
+        },
+        {
+          "languagecode": "ZATHA00001",
+          "languagename": "THAI"
+        },
+        {
+          "languagecode": "ZAURD00001",
+          "languagename": "URDU"
+        },
+        {
+          "languagecode": "ZAVIE00001",
+          "languagename": "VIETNAMESE"
+        }
+      ]
+    },
+    {
+      "OriginalRepeat": [
+        {
+          "OriginalRepeatCode": "ZAFRE00001",
+          "FPCCaption": "FREE REPEA"
+        },
+        {
+          "OriginalRepeatCode": "ZAORI00001",
+          "FPCCaption": "ORG"
+        },
+        {
+          "OriginalRepeatCode": "ZAORI00002",
+          "FPCCaption": "ORG-R1"
+        },
+        {
+          "OriginalRepeatCode": "ZAORI00003",
+          "FPCCaption": "ORG-R2"
+        },
+        {
+          "OriginalRepeatCode": "ZAORI00004",
+          "FPCCaption": "ORG-R3"
+        },
+        {
+          "OriginalRepeatCode": "ZAORI00005",
+          "FPCCaption": "ORG-R4"
+        },
+        {
+          "OriginalRepeatCode": "ZAORI00006",
+          "FPCCaption": "ORG-R5"
+        },
+        {
+          "OriginalRepeatCode": "ZAORI00007",
+          "FPCCaption": "ORG-R6"
+        },
+        {
+          "OriginalRepeatCode": "ZARER00005",
+          "FPCCaption": "RER"
+        },
+        {
+          "OriginalRepeatCode": "ZARER00006",
+          "FPCCaption": "RER-R1"
+        },
+        {
+          "OriginalRepeatCode": "ZARER00007",
+          "FPCCaption": "RER-R2"
+        },
+        {
+          "OriginalRepeatCode": "ZARER00008",
+          "FPCCaption": "RER-R3"
+        },
+        {
+          "OriginalRepeatCode": "ZARER00009",
+          "FPCCaption": "RER-R4"
+        },
+        {
+          "OriginalRepeatCode": "ZARER00010",
+          "FPCCaption": "RER-R5"
+        },
+        {
+          "OriginalRepeatCode": "ZARER00011",
+          "FPCCaption": "RER-R6"
+        }
+      ]
+    }
+  ]
