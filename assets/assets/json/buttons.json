@@ -1,0 +1,27 @@
+
+    [
+    {
+      "id": 1,
+      "name": "Save",
+      "isDisabled": false
+    },
+    {
+      "id": 2,
+      "name": "Continue",
+      "isDisabled": true
+    },{
+      "id": 2,
+      "name": "Clear",
+      "isDisabled": false
+    },
+    {
+      "id": 3,
+      "name": "Modify",
+      "isDisabled": false
+    },
+    {
+      "id": 4,
+      "name": "Proceed",
+      "isDisabled": true
+    }
+  ]

@@ -1,0 +1,23 @@
+
+    [
+        {
+            "id": 1,
+            "name": "Add",
+            "isDisabled": false
+        },
+        {
+            "id": 4,
+            "name": "Verify",
+            "isDisabled": false
+        },
+        {
+            "id": 5,
+            "name": "Default Segments",
+            "isDisabled": false
+        },
+        {
+            "id": 6,
+            "name": "Delete Default Segments",
+            "isDisabled": false
+        }
+      ]
